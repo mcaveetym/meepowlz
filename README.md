@@ -1,12 +1,12 @@
 ## Hi, i'm Meep
 
-I am an...
-+ Undergraduate majoring in Computer Engineering at the Univeristy of South Florida
-+ [Intern at Chainguard for Developer Education](https://github.com/mmcaveety)
++ Undergraduate majoring in Computer Engineering at the Univeristy of South Florida 🤘
++ [Intern at Chainguard for Developer Education](https://github.com/mmcaveety) 🧑‍💻
++ Certified caffiene addict 🥇☕
 
 
 I am programming for *" fun "*, mostly Python
-I like to build keyboards, crochet, and listen to music in my free time!
+I like to build keyboards, crochet, and listen to music in my free time! ⌨️🧶🎵
 
 Check out some of my cooler projects:
 + [Proof of Concept Spotify 2FA](https://github.com/meepowlz/Spotify-MFA)

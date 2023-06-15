@@ -1,7 +1,7 @@
 ## Hi, i'm Meep
 
 I am an...
-+ Undergraduate majoring in Computer Engineering, minoring in Mathematics at the Univeristy of South Florida
++ Undergraduate majoring in Computer Engineering at the Univeristy of South Florida
 + [Intern at Chainguard for Developer Education](https://github.com/mmcaveety)
 
 

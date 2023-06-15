@@ -1,4 +1,17 @@
-### Hi there 👋
+## Hi, i'm Meep
+
+I am an...
++ Undergraduate majoring in Computer Engineering, minoring in Mathematics at the Univeristy of South Florida
++ [Intern at Chainguard for Developer Education](https://github.com/mmcaveety)
+
+
+I am programming for *" fun "*, mostly Python
+I like to build keyboards, crochet, and listen to music in my free time!
+
+Check out some of my cooler projects:
++ [Proof of Concept Spotify 2FA](https://github.com/meepowlz/Spotify-MFA)
++ [FBLA 2022-23 Project that took me to 5th at states](https://github.com/meepowlz/FBLA-2022)
+
 
 <!--
 **meepowlz/meepowlz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

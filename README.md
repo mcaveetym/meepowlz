@@ -6,6 +6,7 @@
 
 
 I am programming for *" fun "*, mostly Python
+
 I like to build keyboards and listen to music in my free time ⌨️🎵
 
 Check out some of my cooler projects:

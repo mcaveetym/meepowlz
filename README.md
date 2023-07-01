@@ -1,13 +1,13 @@
-## Hi, i'm Meep
+## Hi, i'm Michelle (or you can call me Meep)
 
 + Undergraduate majoring in Computer Engineering at the Univeristy of South Florida 🤘
 + [Intern at Chainguard for Developer Education](https://github.com/mmcaveety) 🧑‍💻
 + Certified caffiene addict 🥇☕
 
 
-I am programming for *" fun "*, mostly Python
-
-I like to build keyboards and listen to music in my free time ⌨️🎵
++ I am programming for *" fun "*, mostly in Python
++ I like to build keyboards and listen to music in my free time
++ I want to design my own keyboard(s) some day
 
 Check out some of my cooler projects:
 + [Proof of Concept Spotify 2FA](https://github.com/meepowlz/Spotify-MFA)

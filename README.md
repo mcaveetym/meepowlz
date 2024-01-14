@@ -1,13 +1,12 @@
-## Hi, i'm Meep
+## Hi, i'm Michelle
 
-### I am...
+I am...
 + an Undergraduate majoring in Computer Engineering at the Univeristy of South Florida 🤘
-+ an [Intern at Chainguard for Developer Education](https://github.com/mcaveety) 🧑‍💻
+
+Work experience
++ [Intern at Chainguard for Developer Education](https://github.com/mcaveety) 🧑‍💻
 
 ***
-
-### 📁 This account is archived, you can find my recent work at [@mcaveety](https://github.com/mcaveety)
-
 
 <!--
 **meepowlz/meepowlz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

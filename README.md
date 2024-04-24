@@ -1,12 +1,8 @@
 ## Hi, i'm Michelle
 
-I am...
-+ an Undergraduate majoring in Computer Engineering at the Univeristy of South Florida 🤘
+I am an undergraduate student majoring in Computer Engineering at the Univeristy of South Florida 🤘
+[Find me on LinkedIn here!](https://www.linkedin.com/in/michelle-mcaveety/)
 
-Work experience
-+ [Intern at Chainguard for Developer Education](https://github.com/mcaveety) 🧑‍💻
-
-***
 
 <!--
 **meepowlz/meepowlz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
